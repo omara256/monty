@@ -1,7 +1,7 @@
 ### [Brainf*ck]
-Write a Brainf*ck script that prints Holberton, followed by a new line.
-```omara@ubuntu:~/bf$ bf 1000-holberton.bf 
-Holberton
+Write a Brainf*ck script that prints School, followed by a new line.
+```omara@ubuntu:~/bf$ bf 1000-School.bf 
+School
 omara@ubuntu:~/bf$
 ```
 ##### [add 2 digit]
